@@ -1,0 +1,14 @@
+Linear regression 
+    mean    : 4.31267821039123
+    std dev : 0.7587126381
+
+
+DecisionTreeRegressor 
+    mean    : 4.09787098123781
+    std dev : 0.8567558262
+
+
+
+RandomForestRegressor 
+    mean    : 3.510798237910732
+    std dev : 0.77127639163
